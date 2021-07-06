@@ -7,7 +7,7 @@ Discord Bot
 #  Join the Discord now
   
 
-[![ Discord ](Screenshot_104.png)](https://discord.gg/w32PVw4uyd)
+[![ Discord ](Screenshot_107.png)](https://discord.gg/w32PVw4uyd)
 
 <center>Support auf dem Discord</center>
 </div>
