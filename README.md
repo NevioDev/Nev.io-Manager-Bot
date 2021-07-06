@@ -4,7 +4,8 @@ Discord Bot
 
 ![ Logo ](editiconbot.png)
 
-#  DiscordTicketBot
+#  Join the Discord now
+  
 
 [![ Discord ](Screenshot_104.png)](https://discord.gg/w32PVw4uyd)
 
