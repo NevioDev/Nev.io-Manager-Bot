@@ -8,4 +8,6 @@ Discord Bot
 
 [![ Discord ](Screenshot_104.png)](https://discord.gg/w32PVw4uyd)
 
+<center>Support auf dem Discord</center>
 </div>
+
