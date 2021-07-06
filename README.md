@@ -2,7 +2,7 @@
 Discord Bot
 <div align="center">
 
-![ Logo ](DiscordBotLogo.png)
+![ Logo ](editiconbot.png)
 
 #  DiscordTicketBot
 
