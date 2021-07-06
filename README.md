@@ -6,6 +6,6 @@ Discord Bot
 
 #  DiscordTicketBot
 
-[![ Discord ]()](https://discord.gg/w32PVw4uyd)
+[![ Discord ](Screenshot_104.png)](https://discord.gg/w32PVw4uyd)
 
 </div>
